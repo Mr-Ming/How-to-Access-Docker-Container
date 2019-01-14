@@ -9,7 +9,7 @@ How to access docker container
 
 3) List the docker container via `docker container ls`
 
-![screen shot 2019-01-14 at 10 19 44 am](https://user-images.githubusercontent.com/2894340/51121661-f365de80-17e5-11e9-965a-40180875802e.png)
+<img width="414" alt="screen shot 2019-01-14 at 10 47 22 am" src="https://user-images.githubusercontent.com/2894340/51123342-e1863a80-17e9-11e9-8b5e-ca93e0262431.png">
 
 4) Note the `CONTAINER ID` in the 1st column, this is what you use to access a docker container. Also, note the 2nd column `IMAGE`, this is the application that is running on that `CONTAINER ID`
 
